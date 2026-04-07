@@ -1,0 +1,5 @@
+replicaCount: 1
+image:
+  repository: my-clojure-app
+  tag: v2
+greeting: "Hello from Helm!"
