@@ -3,3 +3,6 @@ image:
   repository: my-clojure-app
   tag: v2
 greeting: "Hello from Helm!"
+ingress:
+  enabled: true
+  path: /
